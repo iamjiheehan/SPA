@@ -1,0 +1,23 @@
+{
+  "name": "spa",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=6BozpmSjk-Y&t=601s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjiheehan/SPA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamjiheehan/SPA/issues"
+  },
+  "homepage": "https://github.com/iamjiheehan/SPA#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
