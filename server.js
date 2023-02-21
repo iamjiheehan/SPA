@@ -14,4 +14,16 @@ app.get('/*', (req, res) => {
 app.listen(process.env.PORT || 3000, () => {
     console.log("Server started on port 3000");
 })
-//서버를 위의 포트(8080)에 열도록 설정
+//서버를 위의 포트(3000)에 열도록 설정
+
+
+
+
+
+
+
+
+
+
+
+
