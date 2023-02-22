@@ -50,3 +50,13 @@ document.addEventListener("DOMContentLoaded", () => {
     router();    
 });
 //뒤로가기 눌러도 event listener가 작동하여 history 데이터생성
+
+
+
+
+
+
+
+
+
+
